@@ -148,8 +148,8 @@ body {
 /*BUTTON ANIMATION*/
 
 .glow-on-hover {
-	width: 220px;
-	height: 50px;
+	width: 200px;
+	height: 40px;
 	border: none;
 	outline: none;
 	color: gold;
@@ -181,6 +181,7 @@ body {
 .glow-on-hover:active:after{
 	background: transparent;
 }
+
 .glow-on-hover:hover:before{
 	opacity: 1;
 }
